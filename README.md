@@ -1,12 +1,12 @@
 # svgmaker
-making cute svg's 
+making svg logos
 
 ## description 
 
 using node index.js to create an svg logo , it seemed really difficult as i spent a long time on this project but i was also missing the svg preview exention for Mac computers
 
 ## Video file 
-[screencastify](examples/svglogomaker.webm)
+[screencastify](examples/svgmaker.webm)
 
 ## screenshot 
 ![svg logo](<examples/Screenshot of logo.png>)
